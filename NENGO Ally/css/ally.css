@@ -1,0 +1,139 @@
+*{
+    padding: 0.2%;
+    margin: 0.2% 0% 0% 0.3%;
+}
+body{ 
+    background-color: rgba(251, 255, 254, 0.548);
+}
+h1{
+    color:saddlebrown;
+    background-color: beige;
+    margin: 0%;
+}
+p{
+    color: black;
+    word-spacing: 1em;
+    font-size: 2.5em;
+}
+footer{
+    padding: 0%;
+    margin: 0%;
+    background-color: gray;
+    font-size: 2em;
+}
+.box{
+    display: inline-block;
+}
+#i{
+    background-image: url('../download (2).jpg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;
+}
+#b{
+    background-image: url('../download (3).jpg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;
+}
+#w{
+    background-image: url('../images.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;
+}
+#l{
+    background-image: url('../images (1).png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;
+}
+#t{
+    background-image: url('../images (1).jpg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;
+}
+#c{
+    background-image: url('../download (6).jpg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;
+}
+#s{
+    background-image: url('../download.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+    font-size: 1.5em;    
+}
+
+.nav h2 {
+    color: rgb(25, 28, 49);
+    text-decoration: none;
+    font-family: cursive;
+}
+ul{
+    list-style-type: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+.my-nav li {
+    float: left;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19;
+    padding-right: 10px;
+    background: rgb(197, 186, 186);
+    border: 1px solid rgb(14, 13, 95);
+    margin: 5px;
+    width: auto;
+    padding: .2em;
+}
+.my-nav {
+    width: 20%;
+    float: right;
+    margin-right: 1%;
+    margin-top: -3%;
+}
+footer{
+    padding: 5px;
+    margin: 0px;
+    background-color: grey;
+    font-size: 1.2em;
+    margin-bottom: -80px;
+    height: 64px;
+    margin-right: -0.3px; 
+    box-shadow: -10px -10px 10px rgb(116, 101, 80);
+}
+
+  .fa {
+      text-align: center;
+      border-radius: 100%;
+      color: azure;
+      text-decoration: none;
+      padding-bottom: 0px;
+      padding-right: 20px;
+      margin-left: 20px; 
+  }
+
+  #footer-icon {
+      margin-top: -30px; 
+      float: right;
+      margin-bottom: 25px;
+  }
+
+  footer p{
+      font-family: cursive;
+      font-size: 1.2em;
+      margin-top: 15px;
+      margin-left: 20px;
+  }

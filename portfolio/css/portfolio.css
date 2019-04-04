@@ -1,0 +1,145 @@
+*{
+    padding: 0%;
+    margin: 0.2% 0% 0% 0%;
+}
+body{ 
+    background-color: rgba(61, 148, 115, 0.548);
+}
+.content p{
+    color: aliceblue;
+}
+#a{
+    float: left;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19;
+    padding-right: 0px;
+    background: rgb(197, 186, 186);
+    border: 1px solid rgb(14, 13, 95);
+    margin: 5px;
+    width: auto;
+    padding: .1em;
+    width: 7%;
+    float: right;
+    margin-right: 1%;
+    margin-top: -1.5%;
+}
+.my-nav {
+    text-align: center;
+    flex-direction: row-reverse;
+} 
+h1{
+    background-color: rgb(243, 243, 188);
+    padding:1% 1% 1% 1%;
+}
+.paragraph4{
+    font-size: 24px;
+}
+.paragraph4 img{
+    float: right;
+}
+.paragraph4 p{
+    font-size: 1.6em;
+    word-spacing:0.5em;
+    letter-spacing: 0.08;
+}
+.paragraph3{
+    font-size: 24px;
+}
+.paragraph3 img{
+    float: left;
+}
+.paragraph3 p{
+    font-size: 1.6em;
+    word-spacing:0.5em;
+    letter-spacing: 0.08;     
+}
+.paragraph2{
+    font-size: 24px;
+}
+.paragraph2 img{
+    float: right;
+}
+.paragraph2 p{
+    font-size: 1.6em;
+    word-spacing:0.5em;
+    letter-spacing: 0.08;
+}
+.paragraph1{
+    font-size: 24px;
+}
+.paragraph1 img{
+    float: left;
+}
+.paragraph1 p{
+    font-size: 1.6em;
+    word-spacing:0.5em;
+    letter-spacing: 0.08;
+}
+li{
+    padding: 0.5%;
+    display: inline;
+    color: rgb(13, 250, 4);
+}
+
+img{
+    box-sizing: border-box;
+    border: 10%;
+}
+.paragraph{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+.certificates{
+    background-color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+footer{
+    padding: 0%;
+    margin: 0%;
+    background-color: gray;
+    font-size: 2em;
+}
+.nav{
+    color: rgb(10, 255, 1);
+}
+.box{
+    display: inline-block;
+}
+footer{
+    padding: 5px;
+    margin: 0px;
+    background-color: grey;
+    font-size: 1.2em;
+    margin-bottom: -80px;
+    height: 64px;
+    margin-right: -0.3px; 
+    box-shadow: -10px -10px 10px rgb(116, 101, 80);
+}
+
+  .fa {
+      text-align: center;
+      border-radius: 100%;
+      color: azure;
+      text-decoration: none;
+      padding-bottom: 0px;
+      padding-right: 20px;
+      margin-left: 20px; 
+  }
+
+  #footer-icon {
+      margin-top: -30px; 
+      float: right;
+      margin-bottom: 25px;
+  }
+
+  footer p{
+      font-family: cursive;
+      font-size: 1.2em;
+      margin-top: 15px;
+      margin-left: 20px;
+  }
+
+
